@@ -1,0 +1,2 @@
+# publicsuffix
+modify publicsuffix-go
